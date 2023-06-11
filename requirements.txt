@@ -1,0 +1,10 @@
+torch
+stable-baselines3
+gym-anytrading
+python-binance
+scikit-learn
+pandas
+numpy
+matplotlib
+quantstats
+jupyter
